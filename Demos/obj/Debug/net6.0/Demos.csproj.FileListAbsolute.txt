@@ -1,0 +1,15 @@
+/home/carol/snap/testesC#/Demos/bin/Debug/net6.0/Demos
+/home/carol/snap/testesC#/Demos/bin/Debug/net6.0/Demos.deps.json
+/home/carol/snap/testesC#/Demos/bin/Debug/net6.0/Demos.runtimeconfig.json
+/home/carol/snap/testesC#/Demos/bin/Debug/net6.0/Demos.dll
+/home/carol/snap/testesC#/Demos/bin/Debug/net6.0/Demos.pdb
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.csproj.AssemblyReference.cache
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.GeneratedMSBuildEditorConfig.editorconfig
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.AssemblyInfoInputs.cache
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.AssemblyInfo.cs
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.csproj.CoreCompileInputs.cache
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.dll
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/refint/Demos.dll
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.pdb
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/Demos.genruntimeconfig.cache
+/home/carol/snap/testesC#/Demos/obj/Debug/net6.0/ref/Demos.dll
